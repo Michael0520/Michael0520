@@ -86,6 +86,6 @@
 
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Michael0520&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Michael0520&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 
 </p>
