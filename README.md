@@ -67,20 +67,12 @@
   <img alt="GithubPage" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
 </p>
 
-<h2 align="center">📺 Latest YouTube Videos:</h2>
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](<[https://www.youtube.com/c/AlwinJohn?sub_confirmation=1](https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw?sub_confirmation=1)>)
-
-</div>
-
 <h2 align="center">📕 Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more posts...](https://medium.com/@weiyun0912)
+➡️ [more posts...](https://medium.com/@Michael0520)
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
@@ -89,19 +81,11 @@
 
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiYun0912&theme=dark" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael0520&theme=dark" />
 </p>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
-<details>
-  <summary>📋 Recent GitHub Activities </summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/WeiYun0912/Hardhat-Tasks/issues/1) in [WeiYun0912/Hardhat-Tasks](https://github.com/WeiYun0912/Hardhat-Tasks)
-<!--END_SECTION:activity-->
-
-</details>
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Michael0520&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 
 </p>
