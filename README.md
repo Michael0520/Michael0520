@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luo Tzu Ming (Michael) <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
 
-- 💻 [My Website](https://nextjs-notion-starter-kit-liart-tau.vercel.app/)
+- 💻 [My Website](https://michael0520-blog.hashnode.dev/)
 
-- 🔭 I’m currently working on [my website](https://nextjs-notion-starter-kit-liart-tau.vercel.app/)
+- 🔭 I’m currently working on [my website](https://michael0520-blog.hashnode.dev/)
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [my website](https://nextjs-notion-starter-kit-liart-tau.vercel.app/) and [medium post](https://medium.com/@Michael0520)
+- 📝 I regularly write articles on [my website](https://michael0520-blog.hashnode.dev/)
 
 - 📫 How to reach me **po2319987@gmail.com**
 
