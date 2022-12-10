@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luo Tzu Ming (Michael) <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
+<h1 align="center">Hi 👋, I'm Tzu Ming Luo (Michael) <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
 
 - 💻 [My Website](https://nextjs-notion-starter-kit-liart-tau.vercel.app/)
 
