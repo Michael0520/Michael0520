@@ -2,7 +2,7 @@
 
 - 💻 [My Website](https://michael0520-blog.hashnode.dev/)
 
-- 🔭 I’m currently working on [my website](https://michael0520-blog.hashnode.dev/)
+<!-- - 🔭 I’m currently working on [my website](https://michael0520-blog.hashnode.dev/) -->
 
 - 🌱 I’m currently learning **web technology**
 
