@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more posts...](https://medium.com/@Michael0520)
+<!-- ➡️ [more posts...](https://medium.com/@Michael0520) -->
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
