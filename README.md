@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tzu Ming Luo (Michael) <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
+<h1 align="center">Hi 👋, I'm Tzu Ming Lo (Michael) <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
 
 <!-- - 💻 [My Website](https://michael0520-blog.hashnode.dev/) -->
 
