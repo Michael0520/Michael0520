@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [my website]([https://michael0520-blog.hashnode.dev/](https://ming-tech.vercel.app/))
+- 📝 I regularly write articles on [my website](https://ming-tech.vercel.app/)
 
 - 📫 How to reach me **michael860520@gmail.com**
 
